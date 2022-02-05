@@ -6,8 +6,8 @@ An NFT Generator created using Python.
 <ul>
   <li>Background</li>
   <li>Character</li>
-  <li>Character Skin (Additional)</li>
-  <li>Character Upper Part (Additional)</li>
+  <li>Character Skin (Character Color)</li>
+  <li>Character Upper Part (Wig, Hat, Glasses, Moustache, Beard...)</li>
 </ul>
 
 <h2>Before Running The script:</h2>
