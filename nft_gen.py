@@ -1,3 +1,4 @@
+# Python 3.9
 from PIL import Image, ImageDraw
 import random
 
